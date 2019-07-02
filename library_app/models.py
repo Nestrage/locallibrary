@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 from django.utils import timezone
-
+#qweqe
 
 class Author(models.Model):
     first_name = models.CharField(max_length=50)
